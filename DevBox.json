@@ -19,7 +19,7 @@
 	"variables": {
 		"vmSize": "Standard_D2",
 		"storageAccountType": "Standard_LRS",
-		"storageAccountName": "lensorderdbvm",
+		"storageAccountName": "dilvms",
 		"virtualNetworkName": "vnet",
 		"subnetName": "subnet",
 		"nicName": "nic",
